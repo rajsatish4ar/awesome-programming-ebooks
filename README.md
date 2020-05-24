@@ -1,7 +1,4 @@
-# Awesome library includs a lot of books. [![HitCount](http://hits.dwyl.com/AmeenAhmed1/awesome-programming-ebooks.svg)](http://hits.dwyl.com/AmeenAhmed1/awesome-programming-ebooks)
-
-<a href="https://paypal.me/AmeenEssa?locale.x=en_US" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
-
+# Awesome library includs a lot of books. <a href="https://paypal.me/AmeenEssa?locale.x=en_US" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
 * <a href= "https://github.com/AmeenAhmed1/awesome-computer-science-ebooks/tree/master/Android%20Notes%20For%20Professionals%20Books" > Android development. [Java, Kotlin] </a>
 * <a href= "https://github.com/AmeenAhmed1/awesome-computer-science-ebooks/tree/master/Head%20First%20books" > Head first. </a>
